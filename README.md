@@ -2,4 +2,4 @@
 vsbm made by cznull with a fps counter.
 
 access it at:
-***ouya-woelders.github.io/vsbm/vsbm.html***
+***ouya-woelders.github.io/vsbm***
